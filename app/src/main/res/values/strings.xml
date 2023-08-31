@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Book Store</string>
+    <string name="insert_book_name">Insert book title to search</string>
+    <string name="search">Search</string>
+    <string name="exit">Exit</string>
+    <string name="filter_favorites">Filter Favorites</string>
+    <string name="back">Back</string>
+    <string name="favorite">Favorite</string>
+    <string name="title">Title:</string>
+    <string name="author">Author:</string>
+    <string name="description">Description:</string>
+    <string name="buy_link">Buy Link:</string>
+    <string name="not_available">Not Available</string>
+    <string name="example" translatable="false">ex: Android</string>
+    <string name="empty_input">You must input something</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="no_books">No books to show</string>
+    <string name="viewmodel_callback" translatable="false">ViewModel callback cannot be null!</string>
+    <string name="na">Not available</string>
+</resources>

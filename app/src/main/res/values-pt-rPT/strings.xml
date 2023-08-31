@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Loja de Livros</string>
+    <string name="insert_book_name">Insira título do livro a pesquisar</string>
+    <string name="search">Pesquisar</string>
+    <string name="exit">Sair</string>
+    <string name="filter_favorites">Filtrar Favoritos</string>
+    <string name="back">Voltar</string>
+    <string name="favorite">Favorito</string>
+    <string name="title">Título:</string>
+    <string name="author">Autor:</string>
+    <string name="description">Descrição:</string>
+    <string name="buy_link">Link de compra:</string>
+    <string name="not_available">Não disponível</string>
+    <string name="empty_input">É preciso introduzir algo</string>
+    <string name="unknown_error">Erro desconhecido</string>
+    <string name="no_books">Não há livros para mostrar</string>
+    <string name="na">Não disponível</string>
+</resources>
