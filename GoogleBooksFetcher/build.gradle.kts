@@ -34,12 +34,13 @@ android {
 }
 
 dependencies {
+    implementation("androidx.core:core-ktx:1.12.0")
     val retrofitVersion = "2.9.0"
 
-    implementation("androidx.core:core-ktx:1.10.1")
+    implementation("androidx.core:core-ktx:1.12.0")
     implementation("androidx.appcompat:appcompat:1.6.1")
-    implementation("com.google.android.material:material:1.9.0")
-    implementation("com.squareup.okhttp3:okhttp:4.11.0")
+    implementation("com.google.android.material:material:1.11.0")
+    implementation("com.squareup.okhttp3:okhttp:4.12.0")
     testImplementation("junit:junit:4.13.2")
     testImplementation("com.squareup.okhttp3:mockwebserver:4.11.0")
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
